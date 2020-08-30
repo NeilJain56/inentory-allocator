@@ -1,4 +1,9 @@
+## How to Run:
+Clone this repo and get it into Eclipse or the editor of your choice. You can either write your own test cases using the 
+main method in the InventoryAllocator class or use the 10 comprehensive unit tests I have written.
 
+## Assumptions
+I assumed that the same item would not be ordered twice in one order since when in a cart for checkout in real life the numbers get put together. 
 
 ## Problem
 
